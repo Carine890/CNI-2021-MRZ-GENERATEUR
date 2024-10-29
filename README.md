@@ -6,3 +6,4 @@ Generateur de la bande MRZ de la nouvelle CNI française (une version en C# et u
 
 -----------------------------------------------------------------------------------------
 -> https://www.icao.int/publications/Documents/9303_p5_cons_en.pdf
+carine blanc 
